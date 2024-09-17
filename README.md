@@ -19,4 +19,4 @@ This project showcases a clean and responsive portfolio webpage that can be cust
 
 ## Live Demo
 
-Check out the [live demo](https://mohammadabushams.github.io/HTML_CSS_Simple-App/#) to see the application in action.
+Check out the [live demo](https://mohammadabushams.github.io/Simple-App-in-HTML-CSS/) to see the application in action.
